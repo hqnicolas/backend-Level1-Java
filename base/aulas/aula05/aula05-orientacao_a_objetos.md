@@ -58,27 +58,27 @@ E suas funcionalidades (*métodos*):
 
 ---
 
-![bg fit left:50%](https://images.ctfassets.net/az3stxsro5h5/3zM04TeFwoDx6bT9WN8uLT/fe7e198deaa6165b84c3e5554d704827/Oct27-Instagram_Reels_Ideas-02.png?w=920&h=800&q=50&fm=png)
+![bg fit left:50%](https://www.grammarflex.com/wp-content/uploads/2023/08/2-300x225.webp)
 
-Além de objetos materiais ou pets, também podemos construir objetos a partir de modelos mais abstratos, como por exemplo um upload de vídeo.
+Além de abstrações de objetos físicos do mundo real, também podemos criar classes abstraindo outros conceitos.
 
 
 
 ---
 
-![bg fit right:40%](https://media.sproutsocial.com/uploads/2022/05/upload-how-to-make-a-tiktok-video.png)
+![bg fit right:40%](https://static-00.iconduck.com/assets.00/transaction-illustration-1701x2048-cxv6crue.png)
+
+Uma transação financeira, por exemplo, pode ser descrita como:
 
 Atributos:
-* Título
-* Usuário
-* Curtidas
-* Duração em Segundos
-* Publicado
+* Valor
+* Data
+* Origem
+* Destino
 
 Funcionalidades:
-* Exibir detalhes do vídeo
-* Exibir comentário mais popular do vídeo
-* Alterar o número de curtidas do vídeo
+* Confirmar
+* Cancelar
 
 ---
 
