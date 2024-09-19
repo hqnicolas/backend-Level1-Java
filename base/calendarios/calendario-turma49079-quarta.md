@@ -9,7 +9,7 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |5|04 de Setembro|Lab. 1.07.10|Frameworks e Web Services|
 |6|11 de Setembro|Lab. 1.07.10|Protocolo HTTP|
 |7|14 de Setembro|Remoto (Sáb.)|Desenvolvimento N2|
-|8|18 de Setembro|Lab. 1.07.10|Desenvolvimento N2|
+|8|18 de Setembro|Remoto|Desenvolvimento N2|
 |9|25 de Setembro|Presencial|CyberSATC|
 |10|02 de Outubro|Lab. 1.07.10|Arquitetura REST|
 |11|09 de Outubro|Lab. 1.07.10|DTO e Mapeamento|

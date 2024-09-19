@@ -15,7 +15,7 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |11|15 de Outubro|Lab. 1.10.42|Repositórios|
 |12|22 de Outubro|Lab. 1.10.42|Paginação e Validação|
 |13|29 de Outubro|Presencial|Arena SETE|
-|14|05 de Novembro|Lab. 1.10.42|Testes Unitários e CICD|
+|14|05 de Novembro|Remoto|Testes Unitários e CICD|
 |15|09 de Novembro|Remoto (Sáb)|Controle de Acesso|
 |16|12 de Novembro|Lab. 1.10.42|Implantação e Containers|
 |17|19 de Novembro|Remoto|Desenvolvimento N3|

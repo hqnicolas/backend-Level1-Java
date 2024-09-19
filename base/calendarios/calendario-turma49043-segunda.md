@@ -8,7 +8,7 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |4|26 de Agosto|Lab. 1.10.42|Orientação à Objetos II|
 |5|02 de Setembro|Lab. 1.10.42|Frameworks e Web Services|
 |6|09 de Setembro|Lab. 1.10.42|Protocolo HTTP|
-|7|16 de Setembro|Lab. 1.10.42|Desenvolvimento N2|
+|7|16 de Setembro|Remoto|Desenvolvimento N2|
 |8|23 de Setembro|Lab. 1.10.42|Arquitetura REST|
 |9|30 de Setembro|Lab. 1.10.42|DTO e Mapeamento|
 |10|07 de Outubro|Lab. 1.10.42|Repositórios|

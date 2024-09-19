@@ -11,6 +11,12 @@ O repositório de todas os estudantes deve estar disponível ao professor até o
 ## Atividades
 
 | Atividade | Pasta | Descrição | Turma 01 (2ª feira) | Turma 02 (3ª feira) | Turma 03 (4ª feira)| Turma 04 (5ª feira) |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Exercício 01](/avaliacoes/lista_exercicios.md) | `exercicio01`| Recomendador de Filmes | 26/08 | 27/08| 28/08 | 29/08 |
-| [Exercício 03](/avaliacoes/lista_exercicios.md) | `exercicio03`| Barcos e Portos | 02/09 | 03/09 | 04/09 | 05/09 |
+| --- | --- | --- | :---: | :---: | :---: | :---: |
+| [Exercício 01](/avaliacoes/exercicios/exercicio01.md) | `exercicio01`| Recomendador de Filmes | 26/08 | 27/08| 28/08 | 29/08 |
+| [Exercício 02](/avaliacoes/exercicios/exercicio02.md) | Opcional| Criação de Personagens | - | - | - | - |
+| [Exercício 03](/avaliacoes/exercicios/exercicio03.md) | `exercicio03`| Barcos e Portos | 02/09 | 03/09 | 04/09 | 12/09 |
+| [Exercício 04](/avaliacoes/exercicios/exercicio04.md) | Opcional| Buscador de Músicas | - | - | - | - |
+| [Exercício 05](/avaliacoes/exercicios/exercicio05.md) | Opcional | Compartilhar Postagem | - | - | - | - |
+| [Exercício 06](/avaliacoes/exercicios/exercicio06.md) | `exercicio06`| Ticket do Cinema | 09/09 | 10/09 | 11/09 | 19/09 |
+| [Exercício 07](/avaliacoes/exercicios/exercicio07.md) | `exercicio07`| Controladores Web | 09/09 | 10/09 | 11/09 | 19/09 |
+| [Exercício 08](/avaliacoes/exercicios/exercicio08.md) | `exercicio08`| Tabela FIPE | 16/09 | 17/09 | 18/09 | 26/09 |
