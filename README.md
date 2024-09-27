@@ -30,5 +30,5 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio07.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio07/src/main/java/com/example/demo/MyController.java) Spring Boot usando o Spring Initializr
 - [exercicio07.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio07/src/main/java/com/example/demo/NicolasApplication.java) ntrada por query strings e retorne uma resposta
 - [exercicio08.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/ApiApplication.java) Spring Boot usando o Spring Initializr.
-- [exercicio08.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/RestClient.java) RestClient para fazer a requisição à [API da Tabela FIPE](https://deividfortuna.github.io/fipe/) valor de tabela FIPE para esse carro
-- [exercicio08.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/TabelaFipeController.java)
+- [exercicio08.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/RestClient.java) RestClient para fazer a requisição à [API da Tabela FIPE](https://deividfortuna.github.io/fipe/) 
+- [exercicio08.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/TabelaFipeController.java) valor de tabela FIPE para esse carro
