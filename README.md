@@ -14,11 +14,11 @@ Disciplina ministrada pelo professor Ramon Venson
 
 # [Projeto Intermediário N2](https://github.com/hqnicolas/backend-Level1-Java/tree/main/n2intermediario)
 ### Gerador de URL's Curtas
-- [docker-compose.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/docker-compose.yml) Set Port Foward to container
-- [Dockerfile](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Dockerfile) Set files inside container
-- [application.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/application.yml) Set Api Token and URL
-- [Insomnia.json](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Insomnia_Shortener_Nicolas.json) Template for Insomnia App
-- [AboutShortener.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/AboutShortener.java) About App
+- [docker-compose.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/docker-compose.yml) Setup de Port Foward do container
+- [Dockerfile](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Dockerfile) Configura os arquivos dentro do container
+- [application.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/application.yml) Setup do Token Api e URL
+- [Insomnia.json](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Insomnia_Shortener_Nicolas.json) Template para usar Insomnia
+- [AboutShortener.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/AboutShortener.java) Sobre o App
 - [ApiApplication.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/ApiApplication.java) Início da aplicação
 - [AppConfig.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/AppConfig.java) Configura um Template REST
 - [CheckUrlRequest.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/CheckUrlRequest.java) Consulta URL's geradas anteriormente
