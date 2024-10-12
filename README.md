@@ -42,3 +42,8 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio08.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/ApiApplication.java) Spring Boot usando o Spring Initializr.
 - [exercicio08.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/RestClient.java) RestClient para fazer a requisição à [API da Tabela FIPE](https://deividfortuna.github.io/fipe/) 
 - [exercicio08.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/TabelaFipeController.java) valor de tabela FIPE para esse carro
+### [CyberSATC](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio09.md)
+- [CyberSatc.md](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro/exercicio09) Simpósio de Segurança Cybernética CyberSATC 2024
+### [Modelagem REST](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio10.md)
+### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio11.md)
+### [Transações Bancárias](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio12.md)
