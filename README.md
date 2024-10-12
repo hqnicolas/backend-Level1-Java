@@ -13,7 +13,9 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio01](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Hello%20World/exercicio01/src/main/java/org/example/Main.java) Criar nome de usuário
 
 # [Introdução ao Java](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro)
+### [Recomendador de Filmes](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio01.md)
 - [exercicio02](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio02/src/main/java/org/example/Main.java) recomende uma série, livro ou filme
+### [Gerador de Personagem](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio02.md)
 - [exercicio03.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio03/src/main/java/org/example/Main.java) personagens de jogo usando classes
 - [exercicio03.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio03/src/main/java/org/example/Personagem.java) classe chamada `Personagem` que implemente os atributos
 - [exercicio04.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio04/src/main/java/org/example/Main.java) manipule barcos e portos usando classes
