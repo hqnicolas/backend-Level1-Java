@@ -9,6 +9,7 @@ Disciplina ministrada pelo professor Ramon Venson
 
 # [Hello World!](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Hello%20World)
 - [exercicio00](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Hello%20World/exercicio00/src/main/java/org/example/Main.java) Hello World!
+### [Gerador de Username](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio00.md)
 - [exercicio01](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Hello%20World/exercicio01/src/main/java/org/example/Main.java) Criar nome de usuário
 
 # [Introdução ao Java](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro)
