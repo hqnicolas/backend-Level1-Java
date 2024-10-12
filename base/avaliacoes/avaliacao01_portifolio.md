@@ -90,18 +90,18 @@ Portifólio de Atividades
 
 ### Estrutura das Pastas
 
-Na raiz do projeto deve-se encontrar o arquivo README.md e as pastas referentes às atividades propostas, com a respectiva nomemclatura definida no calendário de exercícios:
+Na raiz do projeto deve-se encontrar o arquivo README.md e as pastas referentes às atividades propostas, com a respectiva nomemclatura definida no calendário de exercícios. Dentro de cada pasta deve haver todos código-fonte necessário para realizar a compilação (usando maven ou outro gerenciador). Não é recomendado incluir a pasta `target` ou qualquer outro arquivo compilado:
 
 ````
 ├── README.md
-├── atividade01
+├── exercicio01
 │   ├── pom.xml
 │   ├── src
-├── atividade02
-├── atividade03
-├── atividade04
-├── atividade05
-├── atividade06
+├── exercicio02
+├── exercicio03
+├── exercicio04
+├── exercicio05
+├── exercicio06
 ...
 ````
 

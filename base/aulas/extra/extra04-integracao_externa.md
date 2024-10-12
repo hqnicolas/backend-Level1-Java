@@ -47,7 +47,7 @@ Tudo começa no controlador, então criaremos um controller básico por onde o u
 @RestController
 public class CarrosController {
     @Autowired
-    private IMarcasService marcasService;
+    private MarcasService marcasService;
 
     @GetMapping("/marcas")
     @ResponseBody
@@ -81,7 +81,7 @@ Em seguida, vamos implementar o serviço que faz a comunicação com a API usand
 
 ````java
 @Service
-public class MarcasFipeServiceImpl implements CEPService {
+public class MarcasFipeServiceImpl implements MarcasService {
     private RestClient client = RestClient.create("https://parallelum.com.br/fipe/api/v1/");
 
     @Override

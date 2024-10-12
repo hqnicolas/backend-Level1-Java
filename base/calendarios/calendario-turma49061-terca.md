@@ -10,10 +10,10 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |6|10 de Setembro|Lab. 1.10.42|Protocolo HTTP|
 |7|17 de Setembro|Remoto|Desenvolvimento N2|
 |8|24 de Setembro|Presencial|CyberSATC|
-|9|01 de Outubro|Lab. 1.10.42|Arquitetura REST|
-|10|08 de Outubro|Lab. 1.10.42|DTO e Mapeamento|
-|11|15 de Outubro|Lab. 1.10.42|Repositórios|
-|12|22 de Outubro|Lab. 1.10.42|Paginação e Validação|
+|9|01 de Outubro|Lab. 1.10.42|Docker e JSON|
+|10|08 de Outubro|Lab. 1.10.42|Arquitetura REST|
+|11|15 de Outubro|Lab. 1.10.42|DTO e Mapeamento|
+|12|22 de Outubro|Lab. 1.10.42|Repositórios|
 |13|29 de Outubro|Presencial|Arena SETE|
 |14|05 de Novembro|Remoto|Testes Unitários e CICD|
 |15|09 de Novembro|Remoto (Sáb)|Controle de Acesso|

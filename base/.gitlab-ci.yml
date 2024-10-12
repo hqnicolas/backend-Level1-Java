@@ -1,0 +1,29 @@
+image:
+  name: marpteam/marp-cli
+  entrypoint: [""]
+stages:
+  - build
+  - deploy
+build_pdfs:
+  stage: build
+  script:
+    - mkdir -p public/pdfs
+    - for file in aulas/*/*.md; do
+        marp-cli.js --pdf $file --theme ./assets/marpit/venson-marpit-theme.css --allow-local-files --output public/pdfs/$(basename "${file%.md}.pdf");
+      done
+    - echo "<h1>Aulas</h1>" > public/index.html
+    - for pdf in public/pdfs/*.pdf; do
+        echo "<p><a href=\"pdfs/$(basename $pdf)\">$(basename $pdf)</a></p>" >> public/index.html;
+      done
+    - echo "</html>" >> public/index.html
+  artifacts:
+    paths:
+      - public
+pages:
+  stage: deploy
+  script: echo "Deploying to GitLab Pages..."
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

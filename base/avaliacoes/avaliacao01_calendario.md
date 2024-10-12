@@ -17,6 +17,10 @@ O repositório de todas os estudantes deve estar disponível ao professor até o
 | [Exercício 03](/avaliacoes/exercicios/exercicio03.md) | `exercicio03`| Barcos e Portos | 02/09 | 03/09 | 04/09 | 12/09 |
 | [Exercício 04](/avaliacoes/exercicios/exercicio04.md) | Opcional| Buscador de Músicas | - | - | - | - |
 | [Exercício 05](/avaliacoes/exercicios/exercicio05.md) | Opcional | Compartilhar Postagem | - | - | - | - |
-| [Exercício 06](/avaliacoes/exercicios/exercicio06.md) | `exercicio06`| Ticket do Cinema | 09/09 | 10/09 | 11/09 | 19/09 |
-| [Exercício 07](/avaliacoes/exercicios/exercicio07.md) | `exercicio07`| Controladores Web | 09/09 | 10/09 | 11/09 | 19/09 |
-| [Exercício 08](/avaliacoes/exercicios/exercicio08.md) | `exercicio08`| Tabela FIPE | 16/09 | 17/09 | 18/09 | 26/09 |
+| [Exercício 06](/avaliacoes/exercicios/exercicio06.md) | `exercicio06`| Ticket do Cinema | 09/09 | 10/09 | 11/09 | 26/09 |
+| [Exercício 07](/avaliacoes/exercicios/exercicio07.md) | `exercicio07`| Controladores Web | 09/09 | 01/10 | 02/10 | 03/10 |
+| [Exercício 08](/avaliacoes/exercicios/exercicio08.md) | `exercicio08`| Tabela FIPE | 16/09 | 01/10 | 02/10 | 10/10 |
+| [Exercício 09](/avaliacoes/exercicios/exercicio09.md) | `exercicio09`| CyberSATC | 07/10 | 15/10 | 16/10 | 17/10 |
+| [Exercício 10](/avaliacoes/exercicios/exercicio10.md) | `exercicio10`| Modelagem REST | 07/10 | 22/10 | 23/10 | 24/10 |
+| [Exercício 11](/avaliacoes/exercicios/exercicio11.md) | Opcional | Gerador de Jogador Web | - | - | - | - |
+| [Exercício 12](/avaliacoes/exercicios/exercicio12.md) | `exercicio12`| Transações Bancárias | 21/10 | 22/10 | 23/10 | 24/10 |

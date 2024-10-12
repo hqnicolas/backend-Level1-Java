@@ -11,11 +11,11 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |7|14 de Setembro|Remoto (Sáb.)|Desenvolvimento N2|
 |8|18 de Setembro|Remoto|Desenvolvimento N2|
 |9|25 de Setembro|Presencial|CyberSATC|
-|10|02 de Outubro|Lab. 1.07.10|Arquitetura REST|
-|11|09 de Outubro|Lab. 1.07.10|DTO e Mapeamento|
-|12|16 de Outubro|Lab. 1.07.10|Repositórios|
-|13|19 de Outubro|Lab. 1.07.10|Paginação e Validação|
-|14|23 de Outubro|Lab. 1.07.10|Implantação e Containers|
+|10|02 de Outubro|Lab. 1.07.10|Docker e JSON|
+|11|09 de Outubro|Lab. 1.07.10|Arquitetura REST|
+|12|16 de Outubro|Lab. 1.07.10|DTO e Mapeamento|
+|13|19 de Outubro|Remoto|Implantação e Containers|
+|14|23 de Outubro|Lab. 1.07.10|Repositórios|
 |15|30 de Outubro|Presencial|Arena SETE|
 |16|06 de Novembro|Remoto|Testes Unitários e CICD|
 |17|13 de Novembro|Lab. 1.07.10|Desenvolvimento N3|

@@ -2,17 +2,19 @@
 
 Este repositório contém todos os recursos da disciplina de Backend, lecionadas pelo professor Ramon Venson na UniSatc no semestre 2024.2.
 
+> O PDF com todas as aulas está disponível [aqui](https://backend-2024-2-professor-rvenson-1fab111db96bfb7d88afbbdc1a9bb1.gitlab.io/).
+
 ## Conteúdo
 
-assets - apenas imagens e estilos usados principalmente para a construção dos slides de aula.
+`assets` - apenas imagens e estilos usados principalmente para a construção dos slides de aula.
 
-aulas - Contém o material de apoio ao conteúdo das aulas. Cada aula representa um tópico específico da disciplina, e não necessariamente uma semana de aula. Dentro da pasta de cada aula estão presentes os arquivos .md e .pdf (gerado a partir do .md usando o framework marp).
+`aulas` - Contém o material de apoio ao conteúdo das aulas. Cada aula representa um tópico específico da disciplina, e não necessariamente uma semana de aula. Dentro da pasta de cada aula está presente apenas o arquivo `.md`. Um PDF pode ser gerado a partir do .md usando o framework [marp](https://marp.app/)).
 
-avaliacoes - Contém todos os documentos oficiais de avaliações da disciplina. Todos os documentos estão em formato .pdf e .md.
+`avaliacoes` - Contém todos os documentos oficiais de avaliações da disciplina, incluindo exercícios para entrega. Todos os documentos estão em formato `.md`.
 
-correcoes - Contém o código fonte e documentos de correção de exercícios propostos em sala de aula ou em formato de trabalho.
+`correcoes` - Contém o código fonte e documentos de correção de exercícios propostos em sala de aula ou em formato de trabalho.
 
-exemplos - Contém todos os exemplos de código realizados em sala de aula.
+`exemplos` - Contém todos os exemplos de código realizados em sala de aula.
 
 ## Uso
 

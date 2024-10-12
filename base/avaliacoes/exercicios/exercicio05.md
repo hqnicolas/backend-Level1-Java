@@ -6,7 +6,7 @@ Crie um programa, utilizando Interfaces, para implementar o compartilhamento em 
 
 ## Instruções
 
-* Crie uma interface chamada `PlataformaSocial` com os métodos `compartilharPostagem()`, `compartilharImagem()`, `compartilharVideo()`.
+* Crie uma interface chamada `PlataformaSocial` com os métodos `compartilharPostagem(Postagem postagem)`, `compartilharImagem(Postagem postagem)`, `compartilharVideo(Postagem postagem)`.
 * Crie uma classe chamada `MyBook` que implementa a interface `PlataformaSocial`.
 * Crie uma classe chamada `Fotogram` que implementa a interface `PlataformaSocial`.
 * Crie uma classe chamada `AnyTube` que implementa a interface `PlataformaSocial`.
@@ -35,3 +35,8 @@ Você compartilhou essa postagem no MyBook.
 Você compartilhou essa postagem no Fotogram.
 Ocorreu um erro ao compartilhar essa postagem no AnyTube.
 ````
+
+## Dicas
+
+* Você pode utilizar de [enumeradores](https://jonascarmo.medium.com/java-enum-guia-pr%C3%A1tico-java-8-5d95a93334f4) para representar os tipos de postagem.
+* O objetivo é garantir que nenhuma classe compartilhe postagens que incluem tipo de dados que não são suportados pela plataforma. Por isso teste todos os objetos criados no main com diferentes configurações.

@@ -61,7 +61,7 @@ Todas as modificações no projeto deverão ser realizadas até as datas abaixo:
 
 | Turma 01 (2ª feira) | Turma 02 (3ª feira) | Turma 03 (4ª feira)| Turma 04 (5ª feira) |
 | :---: | :---: | :---: | :---: |
-| 30/09 | 01/10| 02/10 | 03/10 |
+| 30/09 | 08/10| 09/10 | 17/10 |
 
 ## Considerações Finais
 
