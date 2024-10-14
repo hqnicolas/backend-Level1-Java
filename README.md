@@ -57,6 +57,15 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio08.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio08/src/main/java/com/shortener/api/TabelaFipeController.java) valor de tabela FIPE para esse carro
 ### [CyberSATC](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio09.md)
 - [CyberSatc.md](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro/exercicio09) Simpósio de Segurança Cybernética CyberSATC 2024
+
+  
+### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio08.md)
+- [exercicio11.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/Controller.java) Controller
+- [exercicio11.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/JogadorRequestDTO.java) Request Template
+- [exercicio11.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/JogadorResponseDTO.java) Response Template
+- [exercicio11.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/Services.java) Service
+
+
 ### [Modelagem REST](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio10.md)
 ### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio11.md)
 ### [Transações Bancárias](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio12.md)
