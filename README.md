@@ -59,7 +59,7 @@ Disciplina ministrada pelo professor Ramon Venson
 - [CyberSatc.md](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro/exercicio09) Simpósio de Segurança Cybernética CyberSATC 2024
 
   
-### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio08.md)
+### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio11.md)
 - [exercicio11.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/Controller.java) Controller
 - [exercicio11.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/JogadorRequestDTO.java) Request Template
 - [exercicio11.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/JogadorResponseDTO.java) Response Template
