@@ -58,7 +58,7 @@ Disciplina ministrada pelo professor Ramon Venson
 ### [CyberSATC](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio09.md)
 - [CyberSatc.md](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro/exercicio09) Simpósio de Segurança Cybernética CyberSATC 2024
 
-### Api Rest Crude
+### [Api Rest Crude](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio10.md)
 - [TrabalhoApiRest.md](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade10/TrabalhoApiRest.md) Acessar e manipular a lista de vazamentos de dados
   
 ### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio11.md)
