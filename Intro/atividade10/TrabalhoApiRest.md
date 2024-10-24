@@ -1,3 +1,13 @@
+---
+
+### Grupo:
+- NÍCOLAS BORBA PEREIRA
+- ELIAS ENNS
+- MICHEL ALMEIDA DA ROSA
+- JULIANO DA SILVA SILVA
+
+### Projeto:
+
 API REST de conferência de vazamento de dados:
 
 ### Casos de uso:

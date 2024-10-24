@@ -23,4 +23,5 @@ O repositório de todas os estudantes deve estar disponível ao professor até o
 | [Exercício 09](/avaliacoes/exercicios/exercicio09.md) | `exercicio09`| CyberSATC | 07/10 | 15/10 | 16/10 | 17/10 |
 | [Exercício 10](/avaliacoes/exercicios/exercicio10.md) | `exercicio10`| Modelagem REST | 07/10 | 22/10 | 23/10 | 24/10 |
 | [Exercício 11](/avaliacoes/exercicios/exercicio11.md) | Opcional | Gerador de Jogador Web | - | - | - | - |
-| [Exercício 12](/avaliacoes/exercicios/exercicio12.md) | `exercicio12`| Transações Bancárias | 21/10 | 22/10 | 23/10 | 24/10 |
+| [Exercício 12](/avaliacoes/exercicios/exercicio12.md) | `exercicio12`| Transações Bancárias | 28/10 | 29/10 | 30/10 | 31/10 |
+| [Exercício 13](/avaliacoes/exercicios/exercicio13.md) | `exercicio13`| Jogador com Banco | 04/11 | 05/11 | 06/11 | 07/11 |

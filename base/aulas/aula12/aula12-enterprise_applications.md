@@ -95,7 +95,7 @@ Definição correta dos códigos de estado do HTTP
 
 ---
 
-### Controler REST
+### Controller REST
 
 ![bg fit left](https://miro.medium.com/v2/resize:fit:640/1*lKMoDjlVtJfjxcF7uRKP1Q.png)
 
