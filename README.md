@@ -79,4 +79,10 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio12.8](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacoesService.java) TransacoesService 
 
 ### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio13.md)
-
+- [exercicio13.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/GeradorApplication.java) GeradorApplication
+- [exercicio13.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/Jogador.java) Jogador
+- [exercicio13.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/JogadorController.java) JogadorController
+- [exercicio13.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/JogadorDTO.java) JogadorDTO
+- [exercicio13.4](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/JogadorMapper.java) JogadorMapper
+- [exercicio13.5](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/JogadorRepository.java) JogadorRepository
+- [exercicio13.6](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade13/src/main/java/com/jogador/web/JogadorService.java) JogadorService
