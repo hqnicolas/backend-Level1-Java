@@ -1,138 +1,114 @@
-## Exercício 01: Recomendador de Filmes <a id="exercicio01"></a>
+---
+marp: true
+theme: venson
+author: Ramon Venson
+title: Avaliação 01 - Portifólio de Atividades
+footer: Disciplina de Backend - Professor Ramon Venson - SATC 2024
+header: Avaliação 01 - Portifólio de Atividades
+---
 
-### Objetivo
+<!-- 
+_class: lead
+-->
 
-Criar um programa recomende uma série, livro ou filme com base nas respostas fornecidas pelo usuário.
+# Avaliação 01 - Portifólio de Atividades
 
 ---
 
-### Instruções
+<!--
+paginate: true
+-->
 
-* Crie um programa que imprima ao usuário duas perguntas;
-* Cada pergunta deve ser respondida com um número inteiro `1` ou `2`;
-* Caso o número não seja `1` ou `2`, o programa deve ser encerrado sem erros;
-* Ao final, o programa deve exibir uma recomendação com base nas respostas fornecidas pelo usuário;
-* O programa deverá fornecer pelo menos quatro recomendações diferentes com base nas respostas fornecidas pelo usuário.
+## Metodologia
 
----
-
-### Conjunto de dados (dataset) [opcional]
-````
-Homens de Preto, Arrival, Shrek, Gladiador
-````
-
-````
-Pergunta 1: Que ambientação você prefere?
-  1. Sci-fi
-  2. Medieval
-
-Pergunta 2: Que gênero você prefere?
-  1. Comédia
-  2. Drama
-````
+A avaliação `N1` consiste na produção e entrega de atividades propostas durante as aulas da disciplina de backend como forma de apoio aos conteúdos teóricos e práticos.
 
 ---
 
-### Entradas (inputs)
-O usuário responderá a cada pergunta digitando os números 1 ou 2 pelo console. Caso o número não esteja entre 1 e 2, o programa deve ser encerrado sem erros. Ex.: (`1` e `1`)
+## Objetivos
 
-### Saídas (outputs)
-O programa exibirá o nome de uma série, livro ou filme recomendado com base nas respostas. Ex.: (`Homens de Preto`)
-
----
-
-## Exercício 02: Gerador de Personagem <a id="exercicio02"></a>
-
-### Objetivo
-
-Criar um programa que gere e manipule personagens de jogo usando classes.
+* Estimular a prática de programação;
+* Avaliar o andamento dos conteúdos lecionados semanalmente;
+* Oferecer uma avaliação individual, prática e com maior grau de autonomia;
 
 ---
 
-### Instruções
+## Critérios de Avaliação
 
-* Crie uma classe chamada `Personagem` que implemente os atributos `nome`, `vida` e `ataque`, além de dos métodos `receberDano` e `atacar`;
-* O método `receberDano` recebe um parâmetro do tipo `int` que subtrai da `vida` do objeto. Se o valor da `vida` for menor ou igual a zero, o método deve imprimir uma mensagem informando que o personagem foi derrotado;
-* O método `atacar` recebe um parâmetro do tipo `Personagem` chamado `alvo` e chama o método `receberDano`, passando o ataque do personagem atacante como parâmetro. Caso a vida do `alvo` seja igual a zero, o método deve imprimir uma mensagem informando que o `ataque falhou`;
-
----
-
-* No método `main` da classe principal, crie crie uma lista de `Personagem` chamada de `inimigos` e adicione pelo menos três personagens diferentes;
-* Crie um `Personagem` chamado `jogador` e use o método `atacar` passando como parâmetro aleatoriamente um dos personagens da lista `inimigos`. O jogador não deve atacar inimigos com vida igual a 0;
-* Após o ataque do jogador, crie um loop que percorre a lista de `inimigos` e chama o método `atacar` de cada um deles passando como parâmetro o `jogador`;
-* Repita os dois últimos passos até que o `jogador` ou todos os `inimigos` tenham a vida zerada e imprima o resultado final.
+* A nota final será calculada com base na média aritmética das notas obtidas nas avaliações: `soma das notas` / `soma dos pesos`;
+* O peso de cada avaliação é determinado pela atividade no calendário de atividades disponibilizado pelo professor;
+* Cada atividade será avaliada como `validada` ou `invalidada`;
+* Uma atividade `validada` corresponde a uma entrega dentro do prazo estabelecido e de acordo com a proposta, correspondendo a `100%` do peso.
+* Uma atividade `invalidade` corresponde a uma entrega fora do prazo estabelecido e/ou em desacordo com a proposta, correspondendo a `0%` do peso.
 
 ---
 
-### Entradas (inputs)
+## Critérios de Disponibilidade
 
-````txt
-Orc / Vida: 100 / Ataque: 10
-Goblin / Vida: 50 / Ataque: 5
-Lobo / Vida: 75 / Ataque: 15
-Cavaleiro / Vida: 200 / Ataque: 20
-Dragão / Vida: 500 / Ataque: 50
-
-Steve / Vida: 100 / Ataque: 20
-````
-
-
-### Saídas (outputs)
-
-````txt
-Orc foi derrotado!
-Goblin foi derrotado!
-Steve foi derrotado!
-````
+* As atividades deverão ser disponibilizadas em repositório `git` público ou com acesso liberado ao professor;
+* A disponibilidade do exercício deverá ser garantida pelo estudante até o prazo de final de correção.
+* A mera entrega dos exercícios não garante sua validação;
+* Atividades que estiverem indisponíveis no prazo de final de correção serão consideradas como `invalidadas`;
+* Não haverá reconsideração de atividades `invalidadas` por postagem fora do prazo;
 
 ---
 
-## Exercício 03: Barcos e Portos <a id="exercicio03"></a>
+## Nota Final
 
-### Objetivo
+``
+N = (soma das notas / soma dos pesos)
+``
 
-Criar um programa que gere e manipule barcos e portos usando classes e herança.
+Onde:
 
----
-
-### Instruções
-
-* Crie uma classe chamada `Barco` contendo os atributos `nome` e `tamanho`;
-* Crie uma classe chamada `BasePorto` contendo os atributos `nome`, um array de `barcosAtracados` e dois métodos método chamados `atracarBarco` e `desatracarBarco`;
-* O método `atracarBarco` recebe um objeto `Barco` e adiciona o barco ao array de `barcosAtracados`;
-* O método `desatracarBarco` recebe um objeto `Barco` e remove o barco do array de `barcosAtracados`;
+`N = Nota final`
+`soma das notas = Quantidade de pontos somados pelo estudante`
+`soma dos pesos = Quantidade de pontos previstas para as atividades`
 
 ---
 
-* Crie uma classe  chamada `PortoPequeno` que herda da classe `BasePorto`. Sobreescreva o método `atracarBarcos` para que ele permita apenas a atracagem de barcos com tamanho menor ou igual a 10;
-* Crie uma classe  chamada `PortoGrande que herda da classe `BasePorto`. Sobreescreva o método `atracarBarcos` para que ele permita apenas a atracagem de barcos com tamanho maior ou igual a 10;
+## Critérios de Entrega
+
+* Deverá ser criado um repositório `Git` para **todas** as atividades propostas;
+* O repositório deverá estar disponível ao professor em plataformas de hospedagem de código como `GitHub`, `GitLab` ou `BitBucket`;
+* A raiz deve conter um arquivo README.md, assim como a separação de **uma pasta para cada um dos exercícios**.
+* Exercícios em grupo **devem ser postados individualmente** por cada participante da equipe.
 
 ---
 
-* No método `main`:
-  * Crie uma lista contendo 5 barcos com diferentes tamanhos e dois portos (um pequeno e um grande);
-  * Percorra a lista de barcos e use o método `atracarBarco` para atracar cada barco em um dos portos;
-  * Os barcos devem tentar ser atracados primeiramente no porto pequeno e, se não puderem, devem ser atracados no porto grande.
+### Conteúdo do README.md
 
----
-
-### Entradas (inputs)
-
-````txt
-Barco 1: Tamanho 2
-Barco 2: Tamanho 5
-Barco 3: Tamanho 7
-Barco 4: Tamanho 12
-Barco 5: Tamanho 20
+````md
+Nome do Estudante
+Disciplina de Backend
+Portifólio de Atividades
 ````
 
+> O conteúdo do README.md deverá ser preenchido com o nome do estudante, disciplina e título do portifólio de atividades.
 
-### Saídas (outputs)
+---
 
-````txt
-Barco 1 atracado no porto pequeno
-Barco 2 atracado no porto pequeno
-Barco 3 atracado no porto pequeno
-Barco 4 atracado no porto grande
-Barco 5 atracado no porto grande
+### Estrutura das Pastas
+
+Na raiz do projeto deve-se encontrar o arquivo README.md e as pastas referentes às atividades propostas, com a respectiva nomemclatura definida no calendário de exercícios. Dentro de cada pasta deve haver todos código-fonte necessário para realizar a compilação (usando maven ou outro gerenciador). Não é recomendado incluir a pasta `target` ou qualquer outro arquivo compilado:
+
 ````
+├── README.md
+├── exercicio01
+│   ├── pom.xml
+│   ├── src
+├── exercicio02
+├── exercicio03
+├── exercicio04
+├── exercicio05
+├── exercicio06
+...
+````
+
+> O número de pastas será iguais ao número de atividades propostas.
+
+---
+
+## Considerações Finais
+
+* A **cópia comprovada** de exercícios resulta no desconto automático na nota final do estudante;
