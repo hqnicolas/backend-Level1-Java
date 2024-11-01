@@ -67,7 +67,7 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio11.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/JogadorResponseDTO.java) Response Template
 - [exercicio11.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/Services.java) Service
 
-
-### [Modelagem REST](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio10.md)
-### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio11.md)
 ### [Transações Bancárias](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio12.md)
+
+
+### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio13.md)
