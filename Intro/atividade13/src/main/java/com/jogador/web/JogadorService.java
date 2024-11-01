@@ -1,32 +1,33 @@
 package com.jogador.web;
 
+import com.jogador.web.JogadorDTO;
+import com.jogador.web.JogadorMapper;
+import com.jogador.web.Jogador;
+import com.jogador.web.JogadorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
 public class JogadorService {
 
-    private final JogadorRepository repository;
+    @Autowired
+    private JogadorRepository jogadorRepository;
 
     @Autowired
-    public JogadorService(JogadorRepository repository) {
-        this.repository = repository;
+    private JogadorMapper jogadorMapper;
+
+    public JogadorDTO criarJogador(JogadorDTO jogadorDTO) {
+        Jogador jogador = jogadorMapper.toEntity(jogadorDTO);
+        jogadorRepository.save(jogador);
+        return jogadorMapper.toDTO(jogador);
     }
 
-    public JogadorResponseDTO criarJogador(JogadorRequestDTO request) {
-        Jogador jogador = new Jogador();
-        jogador.setNome(request.nome());
-        jogador.setApelido(request.apelido());
-        jogador.setHabilidade((int) (Math.random() * 101));
-        Jogador jogadorSalvo = repository.save(jogador);
-        return new JogadorResponseDTO(jogadorSalvo.getId(), jogadorSalvo.getNome(), jogadorSalvo.getApelido(), jogadorSalvo.getHabilidade());
-    }
-
-    public List<JogadorResponseDTO> getJogadores() {
-        return repository.findAll().stream()
-                .map(jogador -> new JogadorResponseDTO(jogador.getId(), jogador.getNome(), jogador.getApelido(), jogador.getHabilidade()))
+    public List<JogadorDTO> listarJogadores() {
+        return jogadorRepository.findAll().stream()
+                .map(jogadorMapper::toDTO)
                 .collect(Collectors.toList());
     }
 }

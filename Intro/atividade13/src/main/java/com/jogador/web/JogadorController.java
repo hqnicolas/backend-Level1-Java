@@ -1,5 +1,11 @@
 package com.jogador.web;
+
+import com.jogador.web.JogadorDTO;
+import com.jogador.web.JogadorService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -8,20 +14,18 @@ import java.util.List;
 @RequestMapping("/jogadores")
 public class JogadorController {
 
-    private final JogadorService service;
-
     @Autowired
-    public JogadorController(JogadorService service) {
-        this.service = service;
-    }
+    private JogadorService jogadorService;
 
     @PostMapping
-    public JogadorResponseDTO criarJogador(@RequestBody JogadorRequestDTO request) {
-        return service.criarJogador(request);
+    public ResponseEntity<JogadorDTO> criarJogador(@RequestBody @Validated JogadorDTO jogadorDTO) {
+        JogadorDTO jogadorCriado = jogadorService.criarJogador(jogadorDTO);
+        return new ResponseEntity<>(jogadorCriado, HttpStatus.CREATED);
     }
 
     @GetMapping
-    public List<JogadorResponseDTO> getJogadores() {
-        return service.getJogadores();
+    public ResponseEntity<List<JogadorDTO>> listarJogadores() {
+        List<JogadorDTO> jogadores = jogadorService.listarJogadores();
+        return new ResponseEntity<>(jogadores, HttpStatus.OK);
     }
 }
