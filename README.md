@@ -68,14 +68,14 @@ Disciplina ministrada pelo professor Ramon Venson
 - [exercicio11.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade11/src/main/java/com/player/webplayer/Services.java) Service
 
 ### [Transações Bancárias](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio12.md)
-[exercicio12.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/BancApplication.java) SpringBootApplication
-[exercicio12.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/Conta.java) Conta 
-[exercicio12.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/ContaDTO.java) ContaDTO 
-[exercicio12.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/ContaMapper.java) ContaMapper 
-[exercicio12.4](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/Transacao.java) Transacao 
-[exercicio12.5](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoController.java) TransacaoController 
-[exercicio12.6](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoRequestDTO.java) TransacaoRequestDTO 
-[exercicio12.7](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoResponseDTO.java) TransacaoResponseDTO
-[exercicio12.8](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacoesService.java) TransacoesService 
+- [exercicio12.0](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/BancApplication.java) SpringBootApplication
+- [exercicio12.1](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/Conta.java) Conta 
+- [exercicio12.2](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/ContaDTO.java) ContaDTO 
+- [exercicio12.3](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/ContaMapper.java) ContaMapper 
+- [exercicio12.4](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/Transacao.java) Transacao 
+- [exercicio12.5](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoController.java) TransacaoController 
+- [exercicio12.6](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoRequestDTO.java) TransacaoRequestDTO 
+- [exercicio12.7](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacaoResponseDTO.java) TransacaoResponseDTO
+- [exercicio12.8](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/atividade12/src/main/java/com/transactions/banc/TransacoesService.java) TransacoesService 
 
 ### [Gerador de Jogador Web](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio13.md)
