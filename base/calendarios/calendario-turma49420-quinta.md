@@ -16,7 +16,7 @@ O calendário de aulas abaixo representa o cronograma de conteúdos e datas da d
 |13|17 de Outubro|Lab. 1.10.49|DTO e Mapeamento|
 |14|24 de Outubro|Lab. 1.10.49|Repositórios|
 |15|31 de Outubro|Presencial*|Arena SETE|
-|16|07 de Novembro|Remoto|Testes Unitários e CICD|
+|16|07 de Novembro|Presencial|Testes Unitários e CICD|
 |17|14 de Novembro|Lab. 1.10.49|Implantação e Containers|
 |18|21 de Novembro|Remoto|Desenvolvimento N3|
 |18|28 de Novembro|Lab. 1.10.49|Desenvolvimento N3|
