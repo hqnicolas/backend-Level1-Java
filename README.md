@@ -12,19 +12,6 @@ Disciplina ministrada pelo professor Ramon Venson
 ### [Gerador de Username](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio00.md)
 - [exercicio01](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Hello%20World/exercicio01/src/main/java/org/example/Main.java) Criar nome de usuário
 
-# [Projeto Intermediário N2](https://github.com/hqnicolas/backend-Level1-Java/tree/main/n2intermediario)
-### Gerador de URL's Curtas
-- [docker-compose.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/docker-compose.yml) Setup de Port Foward do container
-- [Dockerfile](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Dockerfile) Configura os arquivos dentro do container
-- [application.yml](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/application.yml) Setup do Token Api e URL
-- [Insomnia.json](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/Insomnia_Shortener_Nicolas.json) Template para usar Insomnia
-- [AboutShortener.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/AboutShortener.java) Sobre o App
-- [ApiApplication.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/ApiApplication.java) Início da aplicação
-- [AppConfig.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/AppConfig.java) Configura um Template REST
-- [CheckUrlRequest.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/CheckUrlRequest.java) Consulta URL's geradas anteriormente
-- [RestClient.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/RestClient.java) Variáveis usadas
-- [ShortenerController.java](https://github.com/hqnicolas/backend-Level1-Java/blob/main/n2intermediario/src/main/java/com/shortener/api/ShortenerController.java) Controle de criação de URL curta
-
 # [Introdução ao Java N1](https://github.com/hqnicolas/backend-Level1-Java/tree/main/Intro)
 ### [Recomendador de Filmes](https://github.com/hqnicolas/backend-Level1-Java/blob/main/base/avaliacoes/exercicios/exercicio01.md)
 - [exercicio02](https://github.com/hqnicolas/backend-Level1-Java/blob/main/Intro/exercicio02/src/main/java/org/example/Main.java) recomende uma série, livro ou filme

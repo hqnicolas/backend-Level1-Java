@@ -1,5 +1,0 @@
-tinyurl:
-  api:
-    create_url: https://api.tinyurl.com/create
-    check_url: https://api.tinyurl.com/urls/available
-    token: DIGITE_SEU_TOKEN_AQUI
